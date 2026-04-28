@@ -1,16 +1,16 @@
-## Hi there 👋
+# Cynthia Brown
 
-<!--
-**TitaniaAnn/TitaniaAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Engineer · Flutter · .NET · Offline-First Systems
+Building tools for creators — because I'm one of them.
 
-Here are some ideas to get you started:
+🏺 Currently shipping [My Pottery Studio](https://mypotterystudio.com) — an offline-first Flutter app for ceramic artists with a configurable workflow engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio: [cynthia-brown.com](https://cynthia-brown.com)
+
+🎨 Ceramic work: [programmingpotter.com](https://programmingpotter.com)
+
+---
+
+**Currently working with:** Flutter · Dart · SQLite · .NET · Node.js
+**Past lives:** WordPress, C# enterprise apps, Java, Symantec backup systems
+**Studying:** BS Computer Science at University of Missouri-St. Louis (expected 2026)
